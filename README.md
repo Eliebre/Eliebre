@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eliebre
+- 👋 Hi, I’m @Eli
 - 👀 I’m interested in programming.
 - 🌱 I’m currently php.
 - 💞️ I’m looking to collaborate on nothing rn.
