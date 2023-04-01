@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eli
 - 👀 I’m interested in programming.
-- 🌱 I’m currently php.
-- 💞️ I’m looking to collaborate on nothing rn.
+- 🌱 I’m currently Python.
+- 💞️ I’m looking to make an WR in Sunset Overdrive.
 - 📫 How to reach me in discord like swagmaster46#8058 but not every day.
 
 <!---
